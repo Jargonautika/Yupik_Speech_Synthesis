@@ -1,0 +1,8 @@
+awb_debug lookup sampa M let_m
+awb_debug lookup sampa a let_a
+awb_debug lookup sampa t let_t
+awb_debug lookup sampa t let_t
+awb_debug lookup sampa h let_h
+awb_debug lookup sampa e let_e
+awb_debug lookup sampa w let_w
+pau m A t t h e w pau 
